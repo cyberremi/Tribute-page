@@ -1,8 +1,8 @@
 🌟 Tribute Page
-A simple and elegant Tribute Page created to honor and celebrate the life and achievements of [Name of the Person].
+A simple and elegant Tribute Page created to honor and celebrate the life and achievements of Dr. Norman Borlaug.
 
 📌 Description
-This project is a personal tribute to [Name], highlighting their contributions, milestones, and legacy. The page is designed with clean aesthetics and informative content to reflect the significance of their impact.
+This project is a personal tribute to Dr. Norman Borlaug, highlighting their contributions, milestones, and legacy. The page is designed with clean aesthetics and informative content to reflect the significance of their impact.
 
 🚀 Features
 A brief biography with key life events
