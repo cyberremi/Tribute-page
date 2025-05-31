@@ -18,9 +18,7 @@ Responsive design for all screen sizes
 🛠️ Technologies Used
 HTML5
 
-CSS3 (or frameworks like Bootstrap, Tailwind, if applicable)
-
-JavaScript (if used)
+CSS3 
 
 🎯 Purpose
 This project was built as part of a web development learning journey (e.g., FreeCodeCamp, personal portfolio, etc.). It serves both as a tribute and a demonstration of foundational frontend development skills.
