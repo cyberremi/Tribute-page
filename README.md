@@ -1,0 +1,1 @@
+This project was built as part of a web development learning journey (e.g., FreeCodeCamp, personal portfolio, etc.). It serves both as a tribute and a demonstration of foundational frontend development skills.
